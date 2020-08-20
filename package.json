@@ -1,7 +1,7 @@
 {
   "name": "@opencv.js/utils",
   "description": "opencv.js utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "morozovsk",
     "url": "https://github.com/morozovsk"
